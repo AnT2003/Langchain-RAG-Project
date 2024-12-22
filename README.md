@@ -31,8 +31,8 @@ rag_langchain/
 
 ### **1. Clone the Repository**
 ```bash
-git clone <repository-url>
-cd rag_langchain
+git clone https://github.com/AnT2003/Langchain-RAG-Project
+cd Langchain-RAG-Project
 ```
 
 ### **2. Create a Virtual Environment**
